@@ -35,9 +35,8 @@ public class HelloApplication{
             case "c":
 
                 printAnyString("Typing the first number");
-                int numberfirst = scanner.nextInt();
-                int Results = number(numberfirst);
-                printAnyString("The result of suma is: " + Results);
+                double numberfirst = scanner.nextInt();
+                printAnyString("The result of cos is: " + numberC(numberfirst));
                 break;
         }
 
@@ -60,9 +59,10 @@ public class HelloApplication{
         System.out.println(text);
     }
 
-    public static int number(int numberfirst) {
+    public static double numberC(double inputNumber) {
 
-        return  Math.cos(numberfirst);
+        return  Math.cos(inputNumber);
         //return numberOne+numberTwo;
+
     }
 }

@@ -25,8 +25,10 @@ Below are some screenshots of the program in operation:
 
 *Descripción de la captura 1.*
 
-![Captura 2](ruta/a/la/captura2.png)
+![image](https://github.com/DanyCt/-Proyect_Function_Switch/assets/120155895/25037854-589d-4742-8f0d-df8f0d19e41a)
+
 *Descripción de la captura 2.*
 
-![Captura 3](ruta/a/la/captura3.png)
+![image](https://github.com/DanyCt/-Proyect_Function_Switch/assets/120155895/a6139352-4dc5-4701-b348-3f69ea51ef64)
+
 *Descripción de la captura 3.*
